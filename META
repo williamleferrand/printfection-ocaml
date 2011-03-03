@@ -1,0 +1,5 @@
+name="Printfection"
+version="0.0.1"
+description="OCaml client for the Printfection REST API"
+requires="netclient cryptokit netstring xml-light"
+archive(byte) = "printfection.cma"
