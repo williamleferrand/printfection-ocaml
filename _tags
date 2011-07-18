@@ -1,2 +1,2 @@
-<*.ml> : pkg_netstring, pkg_netclient, pkg_cryptokit, pkg_xml-light, pkg_curl
+<*> : pkg_netstring, pkg_netclient, pkg_cryptokit, pkg_xml-light, pkg_curl
 <*.byte> : pkg_netstring, pkg_netclient, pkg_cryptokit, pkg_xml-light, pkg_curl

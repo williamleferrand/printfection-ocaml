@@ -1,8 +1,8 @@
 all:
-	ocamlbuild printfection.cma
+	ocamlbuild printfection.cmo
 
 install:
-	ocamlfind install printfection META _build/printfection.cma _build/printfection.cmi 
+	ocamlfind install printfection META _build/printfection.cm*
 
 remove: 
 	ocamlfind remove printfection
